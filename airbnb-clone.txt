@@ -1,0 +1,3 @@
+-npm create vite
+-npm i tailwindcss postcss autoprefixer
+-
